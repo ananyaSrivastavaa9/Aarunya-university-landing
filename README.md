@@ -7,7 +7,7 @@ Built using **Next.js (App Router)** and **Tailwind CSS**, designed to demonstra
 
 ## Live Preview
 
-👉 https://vercel.com/ananyasrivastavaa9s-projects/aarunya-university-landing
+👉 https://aarunya-university-landing.vercel.app/
 
 ---
 
