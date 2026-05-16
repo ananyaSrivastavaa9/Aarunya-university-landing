@@ -11,6 +11,10 @@ Built using **Next.js (App Router)** and **Tailwind CSS**, designed to demonstra
 
 ---
 
+## 🚀 Deployment
+
+This project is deployed using Vercel for fast and reliable hosting.
+
 ## Features
 
 - Modern sticky glassmorphism navbar
@@ -32,16 +36,15 @@ Built using **Next.js (App Router)** and **Tailwind CSS**, designed to demonstra
 - Next.js (App Router)
 - React
 - Tailwind CSS
-- Framer Motion (if used)
+- Framer Motion (optional animations)
 - JavaScript
 
 ---
-
-## Folder Structure
+## 📁 Folder Structure
 
 ```bash
 /app
-  └── page.js
+  └── page.tsx
 /components
   ├── Navbar.jsx
   ├── Hero.jsx
@@ -50,3 +53,9 @@ Built using **Next.js (App Router)** and **Tailwind CSS**, designed to demonstra
   ├── Testimonials.jsx
   ├── CTA.jsx
   └── Footer.jsx
+```
+---
+
+## 📌 Project Purpose
+
+This project was built as a UI/UX internship assignment to redesign a university landing page with a modern SaaS-style interface.
